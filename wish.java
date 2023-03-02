@@ -1,1 +1,7 @@
+
+
+class wish {
+
 Hi Helllo
+
+}

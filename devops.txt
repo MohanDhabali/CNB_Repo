@@ -1,3 +1,2 @@
 db.name=mohansd
 db.pwd=mohansd
-db.url=jdbcurl

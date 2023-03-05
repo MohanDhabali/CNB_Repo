@@ -1,0 +1,2 @@
+db.name=mohansd
+db.pwd=mohansd
